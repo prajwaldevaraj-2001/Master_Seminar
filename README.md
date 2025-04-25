@@ -1,3 +1,4 @@
+VISUAL AUTOREGRESSIVE MODELING SCALABLE IMAGE GENERATION VIA NEXT-SCALE PREDICTION
 🧠 MNIST Autoencoder with PyTorch
 This project demonstrates how to build and train a simple convolutional autoencoder using PyTorch on the MNIST dataset. The autoencoder learns to compress and reconstruct handwritten digit images, providing a foundation for tasks like dimensionality reduction, denoising, or generative modeling.
 
